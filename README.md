@@ -41,13 +41,13 @@ The company lacked visibility into **regional sales performance**, which led to:
 
 ## Dashboard Snapshots  
 ### Regional Performance Overview  
-![Dashboard 1]([images/dashboard1.png](https://github.com/SaurabhKushamwar/Regional-Sales-Analysis/blob/main/Dashboard%20Snapshots/Executive%20Overview%20%26%20Trends.png))
+![Dashboard 1]([images/dashboard1.png](https://github.com/SaurabhKushamwar/Regional-Sales-Analysis/blob/main/Dashboard%20Snapshots/Executive%20Overview%20%26%20Trends.png)
 
 ### Product & Customer Insights  
-![Dashboard 2]([images/dashboard2.png](https://github.com/SaurabhKushamwar/Regional-Sales-Analysis/blob/main/Dashboard%20Snapshots/Product%26ChannelPerformanace.png))
+![Dashboard 2]([images/dashboard2.png](https://github.com/SaurabhKushamwar/Regional-Sales-Analysis/blob/main/Dashboard%20Snapshots/Product%26ChannelPerformanace.png)
 
 ### Sales Channels & Profitability  
-![Dashboard 3]([images/dashboard3.png](https://github.com/SaurabhKushamwar/Regional-Sales-Analysis/blob/main/Dashboard%20Snapshots/Geographic%26CustomerInsights.png))
+![Dashboard 3]([images/dashboard3.png](https://github.com/SaurabhKushamwar/Regional-Sales-Analysis/blob/main/Dashboard%20Snapshots/Geographic%26CustomerInsights.png)
 
 ---
 
