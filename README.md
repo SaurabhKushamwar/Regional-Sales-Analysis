@@ -38,7 +38,9 @@ The company lacked visibility into **regional sales performance**, which led to:
 4. **Business Insights & Recommendations** → Actionable strategies  
 
 ---
-
+## 🔗 Live Dashboard
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzllMTYwZWYtNjYyNy00MTdiLWJjMzktMDJkOTUwYzg3ZTEyIiwidCI6ImEzZWIwYTc5LTA4NDEtNDQ5YS1iMzhkLTI1MTZiNzczZTRkMiJ9)
+---
 ## Dashboard Snapshots  
 ### Regional Performance Overview  
 ![Dashboard 1](https://github.com/SaurabhKushamwar/Regional-Sales-Analysis/blob/main/Dashboard%20Snapshots/Executive%20Overview%20%26%20Trends.png)
