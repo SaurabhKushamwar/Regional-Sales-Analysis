@@ -40,6 +40,7 @@ The company lacked visibility into **regional sales performance**, which led to:
 ---
 ## 🔗 Live Dashboard
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzllMTYwZWYtNjYyNy00MTdiLWJjMzktMDJkOTUwYzg3ZTEyIiwidCI6ImEzZWIwYTc5LTA4NDEtNDQ5YS1iMzhkLTI1MTZiNzczZTRkMiJ9)
+
 ---
 ## Dashboard Snapshots  
 ### Regional Performance Overview  
